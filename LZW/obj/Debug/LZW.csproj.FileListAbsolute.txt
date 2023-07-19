@@ -1,0 +1,11 @@
+D:\an4\CIM\LZW\LZW\bin\Debug\LZW.exe.config
+D:\an4\CIM\LZW\LZW\bin\Debug\LZW.exe
+D:\an4\CIM\LZW\LZW\bin\Debug\LZW.pdb
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.csproj.AssemblyReference.cache
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.csproj.SuggestedBindingRedirects.cache
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.Form1.resources
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.Properties.Resources.resources
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.csproj.GenerateResource.cache
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.csproj.CoreCompileInputs.cache
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.exe
+D:\an4\CIM\LZW\LZW\obj\Debug\LZW.pdb
